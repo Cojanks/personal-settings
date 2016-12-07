@@ -7,6 +7,7 @@ Personal settings for workflows, color themes, Myspace top-8 choices & Spotify p
         -Choose Package Control: Install Package
         -Find Materialize and hit Enter
         -High-five a Giraffe 
+        -Put into keybindings(auto-indent): {"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}} 
 
 ##bash_profile
         -In command line, create new file by '$ touch .bash_profile' in the home directory
