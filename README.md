@@ -23,7 +23,8 @@ Personal settings for workflows, color themes, Myspace top-8 choices & Spotify p
 		"Vintage"
 	],
 	"show_full_path": false,
-	"tab_size": 3	
+	"tab_size": 3,
+	"scroll_past_end": true,
 	}
 	]
 
